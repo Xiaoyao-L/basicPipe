@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589415430 source:/home/xiaoyao/projects/Pipe/main.cpp
+	<iostream>
+	<stdio.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<unistd.h>
+	<string.h>
+
